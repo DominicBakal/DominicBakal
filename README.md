@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominicbakal&label=Profile%20views&color=0e75b6&style=flat" alt="dominicbakal" /> </p>
 
-- 🔭 I’m currently working on [HackTheSite]((https://github.com/DominicBakal/HackTheSite.git))
+- 🔭 I’m currently working on [HackTheSite]([https://github.com/DominicBakal/HackTheSite.git])
 
 - 🌱 I’m currently learning **TensorFlow, OpenCV**
 
